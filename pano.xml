@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.6" start="node1" apprev="17950">
+  <panorama id="node1">
+    <input tilesize="1520" tile3url="images/IMG_20200926_162119_00_021_o_3.jpg" tile0url="images/IMG_20200926_162119_00_021_o_0.jpg" tilescale="1.006579" prev3url="images/IMG_20200926_162119_00_021_o_preview_3.jpg" tilevrurl="images/IMG_20200926_162119_00_021_ovr.jpg" prev5url="images/IMG_20200926_162119_00_021_o_preview_5.jpg" levelingpitch="0" levelingroll="0" tile4url="images/IMG_20200926_162119_00_021_o_4.jpg" prev1url="images/IMG_20200926_162119_00_021_o_preview_1.jpg" prev2url="images/IMG_20200926_162119_00_021_o_preview_2.jpg" tile1url="images/IMG_20200926_162119_00_021_o_1.jpg" tile2url="images/IMG_20200926_162119_00_021_o_2.jpg" prev4url="images/IMG_20200926_162119_00_021_o_preview_4.jpg" tile5url="images/IMG_20200926_162119_00_021_o_5.jpg" prev0url="images/IMG_20200926_162119_00_021_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="200" fovmode="0">
+      <start fov="70" projection="4" tilt="1.52" pan="-28.07"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" streetviewlink="https://www.google.com/maps/@11.1707933,106.2088922,3a,75y,228.07h,90t/data=!3m4!1e1!3m2!1sAF1QipP0xWjQhDwb3r_GW-ihVKIvqJBGeKrKWHPgKDin!2e10" customnodeid="" comment="" copyright="" info="" heading="200" title="IMG_20200926_162119_00_021.insp" nodeid="node1" source="" datetime="9/26/2020 4:21 PM" author="" tags="test" latitude="11.17079330" longitude="106.20889217"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" backgroundcolor="0xffffff" wordwrap="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" enabled="1" borderalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" distance="28.8692" id="Point01" skinid="ht_node" title="IMG_20200926_162234_00_022.insp" tilt="0" url="{node2}" target="-26.3214/0/100" pan="181.382"/>
+      <hotspot description="" distance="88.6028" id="Point02" skinid="ht_node" title="IMG_20200926_163243_00_029.insp" tilt="0" url="{node5}" target="-93.533/0/100" pan="162.581"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="2" softedge="0" zoomfov="20" enabled="1" zoomout="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" rubberband="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" lockedmouse="0" invertwheel="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input tilesize="1520" tile3url="images/IMG_20200926_162234_00_022_o_3.jpg" tile0url="images/IMG_20200926_162234_00_022_o_0.jpg" tilescale="1.006579" prev3url="images/IMG_20200926_162234_00_022_o_preview_3.jpg" tilevrurl="images/IMG_20200926_162234_00_022_ovr.jpg" prev5url="images/IMG_20200926_162234_00_022_o_preview_5.jpg" levelingpitch="0" levelingroll="0" tile4url="images/IMG_20200926_162234_00_022_o_4.jpg" prev1url="images/IMG_20200926_162234_00_022_o_preview_1.jpg" prev2url="images/IMG_20200926_162234_00_022_o_preview_2.jpg" tile1url="images/IMG_20200926_162234_00_022_o_1.jpg" tile2url="images/IMG_20200926_162234_00_022_o_2.jpg" prev4url="images/IMG_20200926_162234_00_022_o_preview_4.jpg" tile5url="images/IMG_20200926_162234_00_022_o_5.jpg" prev0url="images/IMG_20200926_162234_00_022_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="21" fovmode="0">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-100" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" streetviewlink="https://www.google.com/maps/@11.1710393,106.2089767,3a,75y,21h,90t/data=!3m4!1e1!3m2!1sAF1QipOauAPM3xTvkuwhS6KAHWe1duqo64SgCnNDVGq_!2e10" customnodeid="" comment="" copyright="" info="" heading="21" title="IMG_20200926_162234_00_022.insp" nodeid="node2" source="" datetime="9/26/2020 4:22 PM" author="" tags="test" latitude="11.17103934" longitude="106.20897666"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" backgroundcolor="0xffffff" wordwrap="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" enabled="1" borderalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" distance="28.8692" id="Point01" skinid="ht_node" title="IMG_20200926_162119_00_021.insp" tilt="-9.73" url="{node1}" target="-163.6/-17.8/37.7" pan="-164.86"/>
+      <hotspot description="" distance="15.3223" id="Point02" skinid="ht_node" title="IMG_20200926_162333_00_023.insp" tilt="0" url="{node3}" target="-148.408/0/100" pan="-26.3214"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="2" softedge="0" zoomfov="20" enabled="1" zoomout="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" rubberband="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" lockedmouse="0" invertwheel="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input tilesize="1520" tile3url="images/IMG_20200926_162333_00_023_o_3.jpg" tile0url="images/IMG_20200926_162333_00_023_o_0.jpg" tilescale="1.006579" prev3url="images/IMG_20200926_162333_00_023_o_preview_3.jpg" tilevrurl="images/IMG_20200926_162333_00_023_ovr.jpg" prev5url="images/IMG_20200926_162333_00_023_o_preview_5.jpg" levelingpitch="0" levelingroll="0" tile4url="images/IMG_20200926_162333_00_023_o_4.jpg" prev1url="images/IMG_20200926_162333_00_023_o_preview_1.jpg" prev2url="images/IMG_20200926_162333_00_023_o_preview_2.jpg" tile1url="images/IMG_20200926_162333_00_023_o_1.jpg" tile2url="images/IMG_20200926_162333_00_023_o_2.jpg" prev4url="images/IMG_20200926_162333_00_023_o_preview_4.jpg" tile5url="images/IMG_20200926_162333_00_023_o_5.jpg" prev0url="images/IMG_20200926_162333_00_023_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="-138" fovmode="0">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" streetviewlink="https://www.google.com/maps/@11.1711327,106.2090799,3a,75y,222h,90t/data=!3m4!1e1!3m2!1sAF1QipOiUko2t-2SZYKxHbunzXLPTdDl0e6aW4k6cfku!2e10" customnodeid="" comment="" copyright="" info="" heading="-138" title="IMG_20200926_162333_00_023.insp" nodeid="node3" source="" datetime="9/26/2020 4:23 PM" author="" tags="test" latitude="11.17113275" longitude="106.20907992"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" backgroundcolor="0xffffff" wordwrap="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" enabled="1" borderalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" distance="15.3223" id="Point01" skinid="ht_node" title="IMG_20200926_162234_00_022.insp" tilt="0" url="{node2}" target="-177.618/0/100" pan="-5.32147"/>
+      <hotspot description="" distance="7.28865" id="Point02" skinid="ht_node" title="IMG_20200926_162436_00_024.insp" tilt="0" url="{node4}" target="-258.533/0/100" pan="-148.408"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="2" softedge="0" zoomfov="20" enabled="1" zoomout="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" rubberband="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" lockedmouse="0" invertwheel="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input tilesize="1520" tile3url="images/IMG_20200926_162436_00_024_o_3.jpg" tile0url="images/IMG_20200926_162436_00_024_o_0.jpg" tilescale="1.006579" prev3url="images/IMG_20200926_162436_00_024_o_preview_3.jpg" tilevrurl="images/IMG_20200926_162436_00_024_ovr.jpg" prev5url="images/IMG_20200926_162436_00_024_o_preview_5.jpg" levelingpitch="0" levelingroll="0" tile4url="images/IMG_20200926_162436_00_024_o_4.jpg" prev1url="images/IMG_20200926_162436_00_024_o_preview_1.jpg" prev2url="images/IMG_20200926_162436_00_024_o_preview_2.jpg" tile1url="images/IMG_20200926_162436_00_024_o_1.jpg" tile2url="images/IMG_20200926_162436_00_024_o_2.jpg" prev4url="images/IMG_20200926_162436_00_024_o_preview_4.jpg" tile5url="images/IMG_20200926_162436_00_024_o_5.jpg" prev0url="images/IMG_20200926_162436_00_024_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="-207" fovmode="0">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" streetviewlink="https://www.google.com/maps/@11.1711972,106.209092,3a,75y,153h,90t/data=!3m4!1e1!3m2!1sAF1QipMlulDIiFugvfsWVQsuJRTkz1n4s1eVHQI1HwcW!2e10" customnodeid="" comment="" copyright="" info="" heading="-207" title="IMG_20200926_162436_00_024.insp" nodeid="node4" source="" datetime="9/26/2020 4:24 PM" author="" tags="test" latitude="11.17119722" longitude="106.20909199"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" backgroundcolor="0xffffff" wordwrap="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" enabled="1" borderalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" distance="7.28865" id="Point01" skinid="ht_node" title="IMG_20200926_162333_00_023.insp" tilt="0" url="{node3}" target="-5.32147/0/100" pan="-37.4076"/>
+      <hotspot description="" distance="40.9216" id="Point02" skinid="ht_node" title="IMG_20200926_163243_00_029.insp" tilt="0" url="{node5}" target="-79.4188/0/100" pan="-258.533"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="2" softedge="0" zoomfov="20" enabled="1" zoomout="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" rubberband="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" lockedmouse="0" invertwheel="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input tilesize="1520" tile3url="images/IMG_20200926_163243_00_029_o_3.jpg" tile0url="images/IMG_20200926_163243_00_029_o_0.jpg" tilescale="1.006579" prev3url="images/IMG_20200926_163243_00_029_o_preview_3.jpg" tilevrurl="images/IMG_20200926_163243_00_029_ovr.jpg" prev5url="images/IMG_20200926_163243_00_029_o_preview_5.jpg" levelingpitch="0" levelingroll="0" tile4url="images/IMG_20200926_163243_00_029_o_4.jpg" prev1url="images/IMG_20200926_163243_00_029_o_preview_1.jpg" prev2url="images/IMG_20200926_163243_00_029_o_preview_2.jpg" tile1url="images/IMG_20200926_163243_00_029_o_1.jpg" tile2url="images/IMG_20200926_163243_00_029_o_2.jpg" prev4url="images/IMG_20200926_163243_00_029_o_preview_4.jpg" tile5url="images/IMG_20200926_163243_00_029_o_5.jpg" prev0url="images/IMG_20200926_163243_00_029_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="138" fovmode="0">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" scaletofit="1" fovstereographic="270" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" streetviewlink="https://www.google.com/maps/@11.1714262,106.2093857,3a,75y,138h,90t/data=!3m4!1e1!3m2!1sAF1QipP2pUxD4uOYYq4OhMxwRavbH1el5IgzHJODfE8A!2e10" customnodeid="" comment="" copyright="" info="" heading="138" title="IMG_20200926_163243_00_029.insp" nodeid="node5" source="" datetime="9/26/2020 4:32 PM" author="" tags="test" latitude="11.17142615" longitude="106.20938570"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" backgroundcolor="0xffffff" wordwrap="1" background="1" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" enabled="1" borderalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" distance="40.9216" id="Point01" skinid="ht_node" title="IMG_20200926_162436_00_024.insp" tilt="0" url="{node4}" target="-37.4076/0/100" pan="266.467"/>
+      <hotspot description="" distance="88.6028" id="Point02" skinid="ht_node" title="IMG_20200926_162119_00_021.insp" tilt="0" url="{node1}" target="-178.618/0/70" pan="280.581"/>
+      <hotspot description="" distance="46.6589" id="Point03" skinid="ht_node" title="IMG_20200926_162333_00_023.insp" tilt="0" url="{node3}" target="$fwd" pan="272.364"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomin="0" blendtime="1" zoomspeed="2" softedge="0" zoomfov="20" enabled="1" zoomout="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" rubberband="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextfullscreen="1" lockedmouse="0" invertwheel="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" customnodeid="" comment="" copyright="" info="" heading="0" title="" nodeid="master" source="" datetime="" author="" tags="" latitude="" longitude=""/>
+  </masternode>
+</tour>
